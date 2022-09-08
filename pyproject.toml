@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "nancy"
+version = "0.1.0"
+description = ""
+authors = ["Christo <christotantony2003@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Flask = "mysql-connector-python"
+mysql-connector-python = "^8.0.29"
+Flask-Mail = "^0.9.1"
+flask-mysql-connector = "^1.1.0"
+Flask-WTF = "^1.0.1"
+email-validator = "^1.2.1"
+opencv-python = "^4.6.0"
+gunicorn = "^20.1.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

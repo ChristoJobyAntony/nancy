@@ -1,0 +1,15 @@
+__pycache__/
+nancy/DBManagers/__pycache__
+nancy/auth/__pycache__
+.vscode/
+env/
+nancy/__pycache__/
+database_backup/
+Support/
+nancy/media/shop/banners
+nancy/media/shop/thumbnails
+nancy/media/seller/profile_pictures
+nancy/media/seller/store_cover
+nancy/media/user/profile_pictures
+poetry.lock
+nancy/test.docx
