@@ -13,3 +13,4 @@ nancy/media/seller/store_cover
 nancy/media/user/profile_pictures
 poetry.lock
 nancy/test.docx
+nancy/config.json
